@@ -37,4 +37,4 @@
 #### 其他项目：
 * [爱奇艺签到](https://github.com/BlueskyClouds/iQIYI-DailyBonus)
 
-湿答答说的是
+湿答答说的是1
